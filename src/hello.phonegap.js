@@ -1,4 +1,4 @@
-// Phonegap override for hello.phonegap.js
+// Phonegap2 override for hello.phonegap.js
 (function() {
 
 	// Is this a phonegap implementation?

@@ -33,6 +33,7 @@ module.exports = function(grunt) {
 					'src/hello.js',
 					'src/hello.chromeapp.js',
 					'src/hello.phonegap.js',
+					'src/hello.electron.js',
 					'src/hello.amd.js',
 					'src/hello.commonjs.js'
 				],
@@ -41,6 +42,7 @@ module.exports = function(grunt) {
 					'src/hello.js',
 					'src/hello.chromeapp.js',
 					'src/hello.phonegap.js',
+					'src/hello.electron.js',
 					'src/modules/dropbox.js',
 					'src/modules/facebook.js',
 					'src/modules/flickr.js',
